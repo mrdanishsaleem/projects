@@ -1,8 +1,12 @@
 # Projects
 
+- Goat Transportation: <https://goattservices.com/>
+- Fatima Nasir Official: <https://fatimanasirofficial.com/> (Cont.)
+- Tosnosh: <https://tosnosh.com/>
+- One Stop Shop Solutions: <https://osssinc.com/> (Cont.)
 - KleanProPlus: <https://kleanproplus.com/> (Cont.)
 - Goenkneaux: <https://goenkneaux.com/> (Cont.)
-- Camp Pedal: <https://camppedal.com/>
+- CampPedal: <https://camppedal.com/>
 - DataPulse Marketing: <https://www.datapulsemarketing.io/>
 - Birth Kulture: <https://birthkulture.camppedal.com/>
 - DevnBeyond: <https://devnbeyond.com/>
