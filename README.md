@@ -8,7 +8,7 @@
 - Goenkneaux: <https://goenkneaux.com/> (Cont.)
 - CampPedal: <https://camppedal.com/>
 - DataPulse Marketing: <https://www.datapulsemarketing.io/>
-- Birth Kulture: <https://birthkulture.camppedal.com/>
+- Birth Kulture: <https://birthkulture.com/>
 - DevnBeyond: <https://devnbeyond.com/>
 - Kalimat Podcast: <https://kalimatpodcast.com/>
 - Molamovil: <http://molamovil.es/>
