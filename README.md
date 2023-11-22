@@ -3,11 +3,11 @@
 - CJ Logistix: <https://cnjlogistix.com/>
 - Big Rigs Trucking: <https://bigrigstrucking.com/>
 - Goat Transportation: <https://goattservices.com/>
-- Fatima Nasir Official: <https://fatimanasirofficial.com/> (Cont.)
+- Fatima Nasir Official: <https://fatimanasirofficial.com/>
 - Tosnosh: <https://tosnosh.com/>
-- One Stop Shop Solutions: <https://osssinc.com/> (Cont.)
-- KleanProPlus: <https://kleanproplus.com/> (Cont.)
-- Goenkneaux: <https://goenkneaux.com/> (Cont.)
+- One Stop Shop Solutions: <https://osssinc.com/>
+- KleanProPlus: <https://kleanproplus.com/>
+- Goenkneaux: <https://goenkneaux.com/>
 - CampPedal: <https://camppedal.com/>
 - DataPulse Marketing: <https://www.datapulsemarketing.io/>
 - Birth Kulture: <https://birthkulture.com/>
