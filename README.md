@@ -1,5 +1,7 @@
 # Projects
 
+- CJ Logistix: <https://cnjlogistix.com/>
+- Big Rigs Trucking: <https://bigrigstrucking.com/>
 - Goat Transportation: <https://goattservices.com/>
 - Fatima Nasir Official: <https://fatimanasirofficial.com/> (Cont.)
 - Tosnosh: <https://tosnosh.com/>
