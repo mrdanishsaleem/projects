@@ -1,5 +1,7 @@
 # Projects
 
+- JJ Supper Cut Services: <https://jjsuppercutservices.com/>
+- Trans Digi Services: <https://transdigiservices.com/>
 - Tytees Kreation: <https://tyteeskreation.com/>
 - CJ Logistix: <https://cnjlogistix.com/>
 - Big Rigs Trucking: <https://bigrigstrucking.com/>
