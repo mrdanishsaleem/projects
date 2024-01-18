@@ -1,5 +1,6 @@
 # Projects
 
+- The Gorilla Den: <https://thegorilladen.com/>
 - JJ Supper Cut Services: <https://jjsuppercutservices.com/>
 - Trans Digi Services: <https://transdigiservices.com/>
 - Tytees Kreation: <https://tyteeskreation.com/>
