@@ -1,5 +1,6 @@
 # Projects
 
+- TRD Financial: <https://trdfinancial.com/>
 - MJJ Transport: <https://mjjtransport.com/>
 - The Gorilla Den: <https://thegorilladen.com/>
 - JJ Supper Cut Services: <https://jjsuppercutservices.com/>
