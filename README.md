@@ -14,6 +14,7 @@
 - Cyberoxx: <https://cyberoxx.com/>
 - One Stop Shop Solutions: <https://osssinc.com/>
 - Aspire Overseas Consultants - Study Abroad: <https://aspireconsultants.co.uk/>
+- ELC Goods: <https://elcgoods.com>
 - KleanProPlus: <https://kleanproplus.com/>
 - Goenkneaux: <https://goenkneaux.com/>
 - CampPedal: <https://camppedal.com/>
