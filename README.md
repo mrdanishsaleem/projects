@@ -1,5 +1,6 @@
 # Projects
 
+- Brilliant Brain Books: <https://brilliantbrainbooksllc.com/>
 - TRD Financial: <https://trdfinancial.com/>
 - MJJ Transport: <https://mjjtransport.com/>
 - The Gorilla Den: <https://thegorilladen.com/>
