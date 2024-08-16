@@ -1,5 +1,8 @@
 # Projects
 
+## WordPress
+
+- RVB: <https://rvb.be/>
 - Brilliant Brain Books: <https://brilliantbrainbooksllc.com/>
 - TRD Financial: <https://trdfinancial.com/>
 - MJJ Transport: <https://mjjtransport.com/>
@@ -42,3 +45,7 @@
 - Junaid Umer Portfolio: <https://junaidumer.netlify.app/>
 - GlucoNatural: <https://order.gluconatural.com/>
 - Organic Lab: <https://organiclab.pk/>
+
+## Shopify
+
+- Plaisir du Jardin: <https://plaisirdujardin.shop/>
