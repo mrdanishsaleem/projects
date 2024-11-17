@@ -3,9 +3,6 @@
 ## WordPress
 
 - RVB: <https://rvb.be/>
-- The Gorilla Den: <https://thegorilladen.com/>
-- Trans Digi Services: <https://transdigiservices.com/>
-- Tytees Kreation: <https://tyteeskreation.com/>
 - Big Rigs Trucking: <https://bigrigstrucking.com/>
 - Fatima Nasir Official: <https://fatimanasirofficial.com/>
 - Tosnosh: <https://tosnosh.com/>
