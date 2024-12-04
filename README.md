@@ -2,19 +2,15 @@
 
 ## WordPress
 
+- Burbank Dentist: <https://burbankdentist.com/>
 - RVB: <https://rvb.be/>
-- Big Rigs Trucking: <https://bigrigstrucking.com/>
 - Fatima Nasir Official: <https://fatimanasirofficial.com/>
 - Tosnosh: <https://tosnosh.com/>
 - One Stop Shop Solutions: <https://osssinc.com/>
 - Aspire Overseas Consultants - Study Abroad: <https://aspireconsultants.co.uk/>
 - ELC Goods: <https://elcgoods.com>
-- DataPulse Marketing: <https://www.datapulsemarketing.io/>
 - Kalimat Podcast: <https://kalimatpodcast.com/>
 - Krølle-BølleIs: <https://xn--krlleblleis-hgbe.dk/>
-- MaxidGuard: <https://maxidguard.com/>
-- RCM Group LTD: <https://rcmgroupintl.com/>
-- WhitePenny: <http://whitepenny.co/>
 - Dlyan Myers Design: <https://dylanmyersdesign.com/>
 - Chatham House: <https://chathamhouse.ca/>
 - Palmer Wholesale Fireworks: <https://palmerwholesalefireworks.com/>
