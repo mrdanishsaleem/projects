@@ -2,6 +2,7 @@
 
 ## WordPress
 
+- Talkspresso <https://talkspresso.com/>
 - Burbank Dentist: <https://burbankdentist.com/>
 - RVB: <https://rvb.be/>
 - Fatima Nasir Official: <https://fatimanasirofficial.com/>
