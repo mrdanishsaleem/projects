@@ -2,6 +2,7 @@
 
 ## WordPress
 
+- TradersBattle <https://tradersbattle.com/>
 - JawMatrix <https://jawmatrix.com/>
 - Artryons <https://artryons.com/>
 - Talkspresso <https://talkspresso.com/>
