@@ -2,6 +2,7 @@
 
 ## WordPress
 
+- Potato Marketing Agency <https://potatomarketingagency.com>
 - TradersBattle <https://tradersbattle.com/>
 - JawMatrix <https://jawmatrix.com/>
 - Artryons <https://artryons.com/>
