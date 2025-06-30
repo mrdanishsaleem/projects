@@ -2,6 +2,8 @@
 
 ## WordPress
 
+- Woadsoft - <https://woadsoft.com/>
+- Rohit Kokane - <https://rohitkokane.com/>
 - Devsarch - <https://devsarch.com/>
 - Business Insights Global - <https://businessinsightsglobal.com/>
 - NWWC - <https://nwwc.com.sa/>
