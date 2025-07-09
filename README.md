@@ -8,6 +8,7 @@
 - Rohit Kokane - <https://rohitkokane.com/>
 - Devsarch - <https://devsarch.com/>
 - Business Insights Global - <https://businessinsightsglobal.com/>
+- Abdola - <https://www.abdola.me/>
 - NWWC - <https://nwwc.com.sa/>
 - International Maritime Industries - <https://www.imi-ksa.com/>
 - Baker Hughes - <https://www.bakerhughes.com/>
