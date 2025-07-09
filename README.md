@@ -1,7 +1,5 @@
 # Projects
 
-## WordPress
-
 - Woadsoft - <https://woadsoft.com/>
 - Denteractive - <https://denteractive.com/>
 - Archteam - <https://archteams.com/>
@@ -34,7 +32,4 @@
 - Organic Lab - <https://organiclab.pk/>
 - Junaid Umer Portfolio - <https://junaidumer.netlify.app/>
 - Gluco Natural - <https://order.gluconatural.com/>
-
-## Shopify
-
 - Plaisir du Jardin: <https://plaisirdujardin.shop/>
