@@ -3,6 +3,8 @@
 - Woadsoft - <https://woadsoft.com/>
 - Denteractive - <https://denteractive.com/>
 - Archteam - <https://archteams.com/>
+- Dhaka.Healthcare - <https://dhaka.healthcare/>
+- USA.Healthcare - <https://usa.healthcare/>
 - Rohit Kokane - <https://rohitkokane.com/>
 - Devsarch - <https://devsarch.com/>
 - Business Insights Global - <https://businessinsightsglobal.com/>
