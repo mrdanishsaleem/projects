@@ -35,3 +35,5 @@
 - Junaid Umer Portfolio - <https://junaidumer.netlify.app/>
 - Gluco Natural - <https://order.gluconatural.com/>
 - Plaisir du Jardin: <https://plaisirdujardin.shop/>
+- Ask Solutions: <https://ask-solutions.vercel.app/>
+- Nomadpay: <https://nomadpay.co/>
