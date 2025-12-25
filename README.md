@@ -6,6 +6,7 @@
 - Atlas Auto & Textile Trading FZCO <https://atlasautotextile.vercel.app/>
 - Woadsoft - <https://woadsoft.com/>
 - Denteractive - <https://denteractive.com/>
+- Arch Consulting - <https://archconsulting.us/>
 - Archteam - <https://archteams.com/>
 - Dhaka.Healthcare - <https://dhaka.healthcare/>
 - USA.Healthcare - <https://usa.healthcare/>
