@@ -1,5 +1,6 @@
 # Projects
 
+- NCR Computers - <https://ncrcomputers.net/>
 - Winwcag - <https://winwcag.com/>
 - DrummerWorld - <https://www.drummerworld.com/>
 - Green Our Planet - <https://greenourplanet.org/>
@@ -19,7 +20,6 @@
 - International Maritime Industries - <https://www.imi-ksa.com/>
 - Baker Hughes - <https://www.bakerhughes.com/>
 - Potato Marketing Agency - <https://potatomarketingagency.com>
-- TradersBattle - <https://tradersbattle.com/>
 - JawMatrix - <https://jawmatrix.com/>
 - Artryons - <https://artryons.com/>
 - Talkspresso - <https://talkspresso.com/>
