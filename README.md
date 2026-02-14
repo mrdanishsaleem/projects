@@ -21,7 +21,6 @@
 - Baker Hughes - <https://www.bakerhughes.com/>
 - Potato Marketing Agency - <https://potatomarketingagency.com>
 - JawMatrix - <https://jawmatrix.com/>
-- Artryons - <https://artryons.com/>
 - Talkspresso - <https://talkspresso.com/>
 - Burbank Dentist - <https://burbankdentist.com/>
 - RVB - <https://rvb.be/>
@@ -36,10 +35,8 @@
 - Chatham House - <https://chathamhouse.ca/>
 - Palmer Wholesale Fireworks - <https://palmerwholesalefireworks.com/>
 - Lakeway Investors - <https://lakewayinvestors.com/>
-- HygnxStudio - <https://hygnxstudio.com/>
-- Organic Lab - <https://organiclab.pk/>
 - Junaid Umer Portfolio - <https://junaidumer.netlify.app/>
-- Gluco Natural - <https://order.gluconatural.com/>
-- Plaisir du Jardin: <https://plaisirdujardin.shop/>
+- Plaisir du Jardin - <https://plaisirdujardin.com/>
+- Plaisir du Jardin Shopify: <https://plaisirdujardin.shop/>
 - Ask Solutions: <https://ask-solutions.vercel.app/>
 - Nomadpay: <https://nomadpay.co/>
