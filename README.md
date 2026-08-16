@@ -3,9 +3,9 @@
 - Abdola - <https://www.abdola.me/>
 - Arch Consulting - <https://archconsulting.us/>
 - Archteam - <https://archteams.com/>
-- Ask Solutions: <https://ask-solutions.vercel.app/>
+- Ask Solutions - <https://ask-solutions.vercel.app/>
 - Aspire Overseas Consultants Study Abroad - <https://aspireconsultants.co.uk/>
-- Atlas Auto & Textile Trading FZCO <https://atlasautotextile.vercel.app/>
+- Atlas Auto & Textile Trading FZCO - <https://atlasautotextile.vercel.app/>
 - Baker Hughes - <https://www.bakerhughes.com/>
 - Business Insights Global - <https://businessinsightsglobal.com/>
 - Burbank Dentist - <https://burbankdentist.com/>
@@ -28,17 +28,18 @@
 - M1 Engine Reconditioning - <https://m1enginereconditioning.co.uk/>
 - NCR Computers - <https://ncrcomputers.net/>
 - Nazcaa - <https://nazcaa.com/>
-- Nomadpay: <https://nomadpay.co/>
+- Nomadpay - <https://nomadpay.co/>
 - NWWC - <https://nwwc.com.sa/>
 - One Stop Shop Solutions - <https://osssinc.com/>
 - Palmer Wholesale Fireworks - <https://palmerwholesalefireworks.com/>
 - Plaisir du Jardin - <https://plaisirdujardin.com/>
-- Plaisir du Jardin Shopify: <https://plaisirdujardin.shop/>
+- Plaisir du Jardin Shopify - <https://plaisirdujardin.shop/>
 - Potato Marketing Agency - <https://potatomarketingagency.com>
 - Rohit Kokane - <https://rohitkokane.com/>
 - RVB - <https://rvb.be/>
 - Talkspresso - <https://talkspresso.com/>
 - Tosnosh - <https://tosnosh.com/>
 - USA.Healthcare - <https://usa.healthcare/>
+- Victory Project - <https://victoryproject.co/>
 - Winwcag - <https://winwcag.com/>
 - Woadsoft - <https://woadsoft.com/>
